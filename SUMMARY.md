@@ -1,9 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part I](part1/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* [gitbook](gitbook/README.md)
+    * [快速上手](gitbook/quickstart.md)
+* [git](git/README.md)
+    * [学习思路](git/index.md)
+    * [本地操作](git/localoper.md)
+    * [辅助功能](git/localoper.md)
+    	* [文件移动，git如何跟踪](git/otherfunc/gitmv.md)

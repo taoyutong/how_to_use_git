@@ -1,2 +1,3 @@
-# how_to_use_git
-learn git in my way 
+常用工具使用
+
+非教程，为个人使用经验or结构化学习整理
