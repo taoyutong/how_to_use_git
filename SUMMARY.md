@@ -8,3 +8,8 @@
     * [本地操作](git/localoper.md)
     * [辅助功能](git/localoper.md)
     	* [文件移动，git如何跟踪](git/otherfunc/gitmv.md)
+* [Mac](mac/README.md)
+    * [快捷操作](mac/quickopr.md)
+    * [工具设置](mac/toolset/README.md)
+    	* [brew换源](mac/toolset/brewopr.md)
+
