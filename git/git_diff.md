@@ -5,7 +5,7 @@
 
 **缓存区** diff **修改区**
 
-```powersehll
+```powershell
 ➜  git_test_3 git:(dev) echo 'add some word again ' >> test_4.info
 
 # git diff 不加任何参数，用于比较未缓存数据与缓存区数据差异
