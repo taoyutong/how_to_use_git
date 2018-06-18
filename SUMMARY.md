@@ -6,6 +6,7 @@
 * [git](git/README.md)
     * [学习思路](git/index.md)
     * [本地操作](git/localoper.md)
+    * [数据保存](git/t_02.md)
     * [辅助功能](git/localoper.md)
     	* [文件移动，git如何跟踪](git/otherfunc/gitmv.md)
 * [Mac](mac/README.md)
